@@ -5,7 +5,7 @@
 - :mag_right: I’m currently learning:
   - :shipit: `C++` OOP and sport programming
   - :snake: `Python3`, especially: `Django 3.x`, `Flask 2.x.x`.
-  - :electron: `JavaScript` & `React JS`
+  - :electron: `React JS` & `JavaScript`
   - :art: `HTML`, `CSS`, `SASS`
 
 - :sparkles: How to reach me: 
