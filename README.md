@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :octocat: I’m currently working on some sort of pet projects and university tasks
+- :octocat: Now I’m working on some sort of pet projects and university tasks
 
 - :mag_right: I’m currently learning:
   - :shipit: `C++` OOP and sport programming
