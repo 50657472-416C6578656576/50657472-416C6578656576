@@ -4,8 +4,8 @@
 
 - :mag_right: I’m currently learning:
   - :shipit: `C++` OOP and sport programming
-  - :snake: `Python`, especially: `Django 3.x`, `Flask 2.x`.
-  - :sunny: `JS` & `React JS`
+  - :snake: `Python 3`, especially: `Django 3.x`, `Flask 2.x.x`.
+  - :sunny: `JavaScript` & `React JS`
 
 - :sparkles: How to reach me: 
   - :mailbox: rex146@ya.ru
