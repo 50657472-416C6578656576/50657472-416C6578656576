@@ -6,7 +6,7 @@
   - :shipit: `C++` OOP and sport programming
   - :snake: `Python 3`, especially: `Django 3.x`, `Flask 2.x.x`.
   - :sunny: `JavaScript` & `React JS`
-  - :art: `HTML`, `CSS` & `SASS`
+  - :art: `HTML`, `CSS`, `SASS`
 
 - :sparkles: How to reach me: 
   - :mailbox: rex146@ya.ru
