@@ -3,7 +3,7 @@
 - :octocat: I’m currently working on some sort of pet projects and university tasks
 
 - :mag_right: I’m currently learning:
-  - :shipit: `C++`: OOP and sport programming
+  - :shipit: `C++` OOP and sport programming
   - :snake: `Python`, especially: `Django 3.x`, `Flask 2.x`.
   - :sunny: `JS` & `React JS`
 
