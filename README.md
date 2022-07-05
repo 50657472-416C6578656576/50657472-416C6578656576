@@ -9,4 +9,4 @@
 
 - :grey_question: How to reach me: 
   - :mailbox: rex146@ya.ru
-  - :page_facing_up::airplane: @x0y0eg
+  - :page_facing_up::airplane: [@x0y0eg](https://t.me/x0y0eg)
