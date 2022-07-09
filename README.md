@@ -10,6 +10,7 @@
 
 - :memo: Achivments (hopefully, the list will grow):
   - [freeCodeCamp JS certificate](https://www.freecodecamp.org/certification/x0y0eg/javascript-algorithms-and-data-structures)
+  - [freeCodeCamp Python scientific computing certificate](https://www.freecodecamp.org/certification/x0y0eg/scientific-computing-with-python-v7)
 
 - :sparkles: How to reach me: 
   - :mailbox: rex146@ya.ru
