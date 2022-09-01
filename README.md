@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :octocat: Now I’m working on some sort of pet projects and university tasks.
+- :octocat: Now I’m studying at the Yandex backend development school, working on some sort of pet projects and university tasks.
 
 - :mag_right: I’m currently learning:
   - :snake: `Python3`, especially: `Django 3.x`, `Flask 2.x.x`
