@@ -3,12 +3,12 @@
 - :octocat: Now I’m studying at the Yandex backend development school, working on some sort of pet projects and university tasks.
 
 - :mag_right: I’m currently learning:
-  - :snake: `Python3`, especially: `Django 3.x`, `Flask 2.x.x`
+  - :snake: `Python3` web frameworks
   - :shipit: `C++` OOP and sport programming
   - :electron: `React JS` & `JavaScript`
   - :art: `HTML`, `CSS`, `SASS`
 
-- :memo: Achivments (hopefully, the list will grow):
+- :memo: Achivments:
   - [freeCodeCamp JS certificate](https://www.freecodecamp.org/certification/x0y0eg/javascript-algorithms-and-data-structures)
   - [freeCodeCamp Python scientific computing certificate](https://www.freecodecamp.org/certification/x0y0eg/scientific-computing-with-python-v7)
 
