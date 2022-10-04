@@ -4,6 +4,7 @@
   - :snake: `Python3` web frameworks
   - :shipit: `C++` OOP and sport programming
   - :electron: `React JS` & `JavaScript`
+  - :eyes: Interested in information security and `CTF`s
 
 - :memo: Achivments:
   - [![codewars](https://www.codewars.com/users/x0y0eg/badges/small)](https://www.codewars.com/users/x0y0eg)
