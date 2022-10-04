@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-- :octocat: Now I’m studying at the Yandex backend development school, working on some sort of pet projects and university tasks.
-
 - :mag_right: I’m currently learning:
   - :snake: `Python3` web frameworks
   - :shipit: `C++` OOP and sport programming
   - :electron: `React JS` & `JavaScript`
-  - :art: `HTML`, `CSS`, `SASS`
 
 - :memo: Achivments:
+  - [![codewars](https://www.codewars.com/users/x0y0eg/badges/small)](https://www.codewars.com/users/x0y0eg)
+  - Graduated from Yandex backend development school and successfully submit a project with my team.
   - [freeCodeCamp JS certificate](https://www.freecodecamp.org/certification/x0y0eg/javascript-algorithms-and-data-structures)
   - [freeCodeCamp Python scientific computing certificate](https://www.freecodecamp.org/certification/x0y0eg/scientific-computing-with-python-v7)
 
