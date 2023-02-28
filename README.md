@@ -4,7 +4,7 @@
 
 - :mag_right: I’m currently learning:
   - :snake: `Python3` web frameworks
-  - :shipit: `C++` OOP, sport programming and backend-development usinf `uservice` framework
+  - :shipit: `C++` OOP, sport programming and backend-development using `uservice` framework
   - :electron: `React JS` & `JavaScript`
 
 - :eyes: Interested in information security and `CTF`s
@@ -16,6 +16,6 @@
   - [freeCodeCamp Python scientific computing certificate](https://www.freecodecamp.org/certification/x0y0eg/scientific-computing-with-python-v7)
 
 - :sparkles: How to reach me: 
-  - :mailbox: rex146@ya.ru
+  - :mailbox: ya@petr-alexeev.ru
   - :page_facing_up::airplane: [@x0y0eg](https://t.me/x0y0eg)
   
