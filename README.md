@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- :office: Working at Yandex as a trainee С++ backend developer
-
 - :mag_right: I’m currently learning:
   - :snake: `Python3` web frameworks
   - :shipit: `C++` OOP, sport programming and backend-development using `uservice` framework
